@@ -1,0 +1,12 @@
+.header {
+  background-color: #212529;
+  padding: 10px;
+  color:#fff
+}
+
+.headerContainer {
+  width: 60%;
+  margin: auto ;
+  display: flex;
+  justify-content: space-between;
+}
