@@ -54,7 +54,7 @@ const AddBook = () => {
           <label>Year:</label>
           <input
             type="number"
-            min="1git add README.md"
+            min="1"
             value={publishedDate}
             onChange={(e) => setPublishedDate(+e.target.value)}
           />
